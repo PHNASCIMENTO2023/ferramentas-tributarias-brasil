@@ -1,3 +1,17 @@
+# Ferramentas Tributárias Brasil
+
+Ferramentas, metodologias e automações open source para análise tributária e fiscal no Brasil.
+
+## Objetivo
+
+Este projeto tem como objetivo transformar conhecimentos e metodologias de análise tributária em ferramentas práticas, acessíveis e reutilizáveis por contadores, consultores tributários, profissionais fiscais, empresas e desenvolvedores.
+
+## Primeira ferramenta
+
+### Analisador de Créditos de PIS e COFINS
+
+A primeira ferramenta do projeto será desenvolvida para auxiliar na análise preliminar da possibilidade de aproveitamento de créditos de PIS e COFINS.
+
 A ferramenta deverá considerar, entre outros aspectos:
 
 * Regime tributário;
